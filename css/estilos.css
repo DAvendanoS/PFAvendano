@@ -1,0 +1,25 @@
+.span{
+    height: 20px;
+    width: 20px;
+    background-color: red;
+}
+.div{
+    height: 50px;
+    width: 200px;
+    background-color: red;
+}
+h1{
+    color: red;
+}
+h2{
+    color:aqua;
+}
+p{
+    color:blueviolet;
+}
+li{
+    color:greenyellow;
+}
+.bordesRedondeados{
+    border-radius: 20px;
+}
