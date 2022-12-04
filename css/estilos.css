@@ -45,9 +45,6 @@ h2{
 p{
     color: brown;
 }
-li{
-    color:blueviolet;
-}
 .bordesRedondeados{
     border-radius: 20px;
 }
@@ -56,6 +53,8 @@ li{
     background-color: white;
     border-radius: 10px;
     border-style: initial;
+    font-size:larger;
+    text-align:center;
 }
 #Quienessomos {
     background-image: beige;
@@ -82,4 +81,19 @@ li{
     margin-right: 700px;
     margin-bottom: 10px;
     margin-left: 40px;
+}
+.Contacto{
+    color:whitesmoke;
+    border-radius: 10px;
+    border-style: initial;
+    font-size: medium;
+    text-align: center;
+}
+.plazaslista{
+    color:cornflowerblue;
+    background-color: white;
+    border-radius: 10px;
+    border-style: initial;
+    font-size:medium;
+    text-align:center;
 }
